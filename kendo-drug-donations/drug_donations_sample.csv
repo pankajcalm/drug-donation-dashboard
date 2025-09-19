@@ -1,0 +1,11 @@
+id,drug_name,category,donor,quantity,expiry_date,status
+1,Amoxicillin 500mg,Antibiotic,Sunshine Clinic,120,2025-11-18,OK
+2,Ibuprofen 200mg,Analgesic,Helping Hands,40,2025-10-04,Low
+3,Insulin Glargine,Insulin,Rx4All,18,2025-09-29,Low
+4,Oseltamivir,Antiviral,GoodHealth Org,85,2026-01-17,OK
+5,Pantoprazole,Antacid,CareBridge,0,2025-09-16,Expired
+6,Paracetamol 500mg,Analgesic,Sunshine Clinic,200,2025-12-15,OK
+7,Azithromycin 250mg,Antibiotic,Helping Hands,65,2025-11-22,OK
+8,Metformin 850mg,Insulin,CareBridge,30,2025-10-20,Low
+9,Ranitidine 150mg,Antacid,Rx4All,95,2026-02-05,OK
+10,Favipiravir,Antiviral,GoodHealth Org,22,2025-09-25,Low
